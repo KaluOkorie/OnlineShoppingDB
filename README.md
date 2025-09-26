@@ -2,8 +2,6 @@
 
 Step into the world of e-commerce data with **OnlineShoppingDB**! This project is a robust relational database designed to handle the core operations of an online shopping platform. It transforms raw customer, product, and order data into a structured, query-ready format, perfect for driving business intelligence and a seamless customer experience.
 
-Developed as the second task in my Advanced Databases journey, this database highlights my skills in data importation, schema design, and writing complex, optimized SQL queries to extract meaningful business insights.
-
 ---
 
 ## 🚀 Key Features
@@ -22,7 +20,7 @@ Developed as the second task in my Advanced Databases journey, this database hig
 The schema is intuitive and scalable, clearly defining how customers, orders, and products interrelate. This logical structure is the backbone for all complex reporting.
 
 ![OnlineShoppingDB ERD](https://raw.githubusercontent.com/KaluOkorie/OnlineShoppingDB/main/ERD%20Diagram%20for%20OnlineShoppingDB.png)
-*<!-- Remember to upload and link your ERD for this project too! -->*
+
 
 ### Normalization
 The database adheres to **Third Normal Form (3NF)**, ensuring data is stored without unnecessary duplication. This makes the database efficient, consistent, and easier to maintain.
@@ -42,7 +40,6 @@ Getting started with OnlineShoppingDB is straightforward:
     *   Take a look at the table relationships to understand the data model.
 
 3.  **Run the Example Queries:**
-    *   The `Queries.sql` file (in the repository) contains a variety of analytical queries. Try them out!
     *   Example: Find the top-selling product categories or identify your most valuable customers.
 
 ---
@@ -86,4 +83,4 @@ I enjoy turning data into actionable insights and building the systems that make
 *   **GitHub:** [KaluOkorie](https://github.com/KaluOkorie)
 *   **LinkedIn:** [https://www.linkedin.com/in/ikennaokorie/](https://www.linkedin.com/in/ikennaokorie/)
 
-> *“In the digital marketplace, data isn't just king—it's the entire kingdom. Organizing it effectively is the first step to unlocking its true value.”*
+> *“In the digital marketplace, data isn't just king, it's the entire kingdom. Organizing it effectively is the first step to unlocking its true value.”*
