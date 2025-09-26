@@ -84,6 +84,6 @@ These insights are crucial for strategic decision-making in marketing, inventory
 I enjoy turning data into actionable insights and building the systems that make it possible. If you find this project interesting or want to discuss databases and software development, I'd love to hear from you!
 
 *   **GitHub:** [KaluOkorie](https://github.com/KaluOkorie)
-*   **LinkedIn:** [<!-- Your LinkedIn Profile Link -->](https://linkedin.com/in/yourprofile)
+*   **LinkedIn:** [https://www.linkedin.com/in/ikennaokorie/](https://www.linkedin.com/in/ikennaokorie/)
 
 > *“In the digital marketplace, data isn't just king—it's the entire kingdom. Organizing it effectively is the first step to unlocking its true value.”*
