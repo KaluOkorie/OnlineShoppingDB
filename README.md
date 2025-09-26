@@ -21,7 +21,7 @@ Developed as the second task in my Advanced Databases journey, this database hig
 ### Entity-Relationship Diagram (ERD)
 The schema is intuitive and scalable, clearly defining how customers, orders, and products interrelate. This logical structure is the backbone for all complex reporting.
 
-![OnlineShoppingDB ERD](path/to/your/OnlineShopping-ERD-image.png)
+![OnlineShoppingDB ERD](https://raw.githubusercontent.com/KaluOkorie/OnlineShoppingDB/main/ERD%20Diagram%20for%20OnlineShoppingDB.png)
 *<!-- Remember to upload and link your ERD for this project too! -->*
 
 ### Normalization
