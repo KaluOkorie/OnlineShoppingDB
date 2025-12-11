@@ -1,10 +1,10 @@
-# 🛒 OnlineShoppingDB: E-Commerce Data Engine
+# OnlineShoppingDB: E-Commerce Data Engine
 
 Step into the world of e-commerce data with **OnlineShoppingDB**! This project is a robust relational database designed to handle the core operations of an online shopping platform. It transforms raw customer, product, and order data into a structured, query-ready format, perfect for driving business intelligence and a seamless customer experience.
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 *   **Comprehensive Data Model:** Manages the entire e-commerce lifecycle, including `Customers`, `Products`, `Orders`, `Order Items`, and `Payments`.
 *   **Complex Query Capability:** Ready for advanced reporting with queries that analyze sales trends, high-value customers, and product performance.
@@ -14,7 +14,7 @@ Step into the world of e-commerce data with **OnlineShoppingDB**! This project i
 
 ---
 
-## 🗃️ Database Design
+##  Database Design
 
 ### Entity-Relationship Diagram (ERD)
 The schema is intuitive and scalable, clearly defining how customers, orders, and products interrelate. This logical structure is the backbone for all complex reporting.
@@ -27,7 +27,7 @@ The database adheres to **Third Normal Form (3NF)**, ensuring data is stored wit
 
 ---
 
-## 💻 Installation & Setup
+## Installation & Setup
 
 Getting started with OnlineShoppingDB is straightforward:
 
@@ -44,7 +44,7 @@ Getting started with OnlineShoppingDB is straightforward:
 
 ---
 
-## 🛡️ Security & Performance
+##  Security & Performance
 
 **Security is integrated into the design:**
 *   **Parameterized Stored Procedures:** Used for all key operations, effectively preventing SQL injection attacks.
@@ -56,7 +56,7 @@ Getting started with OnlineShoppingDB is straightforward:
 
 ---
 
-## 💾 Backup & Recovery Strategy
+## Backup & Recovery Strategy
 
 For any business, data is invaluable. This project includes a practical backup plan:
 *   **Automated Full Backups:** Scheduled regularly to capture the entire database.
@@ -64,7 +64,7 @@ For any business, data is invaluable. This project includes a practical backup p
 
 ---
 
-## 📈 Business Insights in Action
+## Business Insights in Action
 
 This database answers critical business questions, such as:
 *   Who are our top-spending customers?
@@ -76,7 +76,7 @@ These insights are crucial for strategic decision-making in marketing, inventory
 
 ---
 
-## 👋 Let's Connect!
+##  Let's Connect!
 
 I enjoy turning data into actionable insights and building the systems that make it possible. If you find this project interesting or want to discuss databases and software development, I'd love to hear from you!
 
